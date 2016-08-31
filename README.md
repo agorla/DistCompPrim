@@ -1,4 +1,4 @@
 # DistCompPrim
 Distributed Computing Primitives 
 ================
-This project implements Distributed Computing Primitives on top of zookeper
+This project is created to implement distributed computing primitives on top of zookeper
